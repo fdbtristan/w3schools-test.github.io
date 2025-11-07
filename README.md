@@ -17,6 +17,7 @@ You can add almost anything to the index.html file between the indicated comment
 
 This is a short line.
 And this another one.
+Third line added.
 
 So feel free to use your imagination!
 
